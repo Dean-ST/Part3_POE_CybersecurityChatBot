@@ -1,10 +1,3 @@
-C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\Assets\greeting.wav
-C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.exe
-C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.deps.json
-C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.runtimeconfig.json
-C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.dll
-C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.pdb
-C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\CyberSecurityBot.csproj.AssemblyReference.cache
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\MainWindow.g.cs
@@ -17,6 +10,13 @@ C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\CyberSecurityBot.AssemblyInfo.cs
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\CyberSecurityBot.csproj.CoreCompileInputs.cache
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\CyberSecurityBot.sourcelink.json
+C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\Assets\greeting.wav
+C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.exe
+C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.deps.json
+C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.runtimeconfig.json
+C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.dll
+C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\CyberSecurityBot.pdb
+C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\CyberSec.8B1038FD.Up2Date
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\CyberSecurityBot.dll
 C:\Users\Dean\OneDrive\Desktop\CyberSecurityBot\CyberSecurityBot\obj\Debug\net8.0-windows\refint\CyberSecurityBot.dll
