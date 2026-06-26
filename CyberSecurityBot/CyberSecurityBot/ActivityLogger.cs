@@ -4,7 +4,10 @@ using System.Text;
 
 namespace CyberSecurityBot
 {
-        public static class ActivityLogger
+    /// <summary>
+    /// A class for logging activities.
+    /// </summary>
+    public static class ActivityLogger
         {
             private static List<string> logs =
                 new List<string>();
